@@ -1,0 +1,6 @@
+node_modules
+index.js
+src/Transaction.js
+src/Block.js
+src/Chain.js
+src/Wallet.js
